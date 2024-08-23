@@ -167,3 +167,4 @@ def excluir_restaurante():
 # Verifica se o script está sendo executado diretamente e chama a função principal
 if __name__ == '__main__':
     main()
+   
